@@ -6,10 +6,23 @@ The label is designed to be attached to a cable using two cable ties.
 The label can be marked with a permanent marker or a laser engraver.
 This label was primarily designed to be attached to Ethernet cables but should work on others cables as well.
 
-The label was designed as a printed circuit board and can be manufactured from the Gerber files. The DXF file could also probably be laser cut to make the label out of acrylic, plywood or similar. I will probably redraw it in Inkscape to make a SVG file for laser cutting in the future.
+## Two options
+
+There are two options for the manufacturing this label:
+
+* Making a Printed circuit board (PCB) using the files in the [PCB](./PCB) directory.
+* Laser cutting the label out of acrylic, plywood or similar using the files in the [Laser cuttable](./Laser%20cuttable) directory.
+
+### PCB
 
 ![./Exports-v1.0/Top.svg](./Exports-v1.0/Top.svg)
 ![./Exports-v1.0/Bottom.svg](./Exports-v1.0/Bottom.svg)
+
+TODO: Add photo of completed label attached to a cable
+
+### Laser cuttable
+
+![Laser cuttable design](./Laser%20cuttable/Cable%20label.svg)
 
 TODO: Add photo of completed label attached to a cable
 

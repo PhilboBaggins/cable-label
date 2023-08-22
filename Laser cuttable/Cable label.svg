@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 559.37005 396.8504"
+   width="148mm"
+   height="105mm"
+   version="1.1"
+   id="svg75"
+   sodipodi:docname="PCB.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview75"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.9255612"
+     inkscape:cx="200.47435"
+     inkscape:cy="70.584747"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="2675"
+     inkscape:window-y="1121"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g75"
+     inkscape:document-units="mm" />
+  <desc
+     id="desc1">PCB.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+  <defs
+     id="defs4" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="TopSilkLayer"
+     id="g5" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="TopSolderMaskLayer"
+     id="g25" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="BottomSolderMaskLayer"
+     id="g45" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="BoardOutLine"
+     id="g53" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Multi-Layer"
+     id="g73" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g74" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="BottomSilkLayer"
+     id="g75">
+    <rect
+       style="fill:#0000ff;stroke-width:4.14458"
+       id="rect75"
+       width="264.56693"
+       height="113.38583"
+       x="0"
+       y="0"
+       ry="12.379033" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke-width:3.26905"
+       id="rect76"
+       width="26.456694"
+       height="9.4488192"
+       x="11.338583"
+       y="34.015747"
+       ry="4.7244096" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke-width:3.26905"
+       id="rect76-3"
+       width="26.456694"
+       height="9.4488192"
+       x="11.338583"
+       y="71.81102"
+       ry="4.7244096" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke-width:3.26905"
+       id="rect76-0"
+       width="26.456694"
+       height="9.4488192"
+       x="226.77165"
+       y="71.81102"
+       ry="4.7244096" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke-width:3.26905"
+       id="rect76-07"
+       width="26.456694"
+       height="9.4488192"
+       x="226.77165"
+       y="34.015747"
+       ry="4.7244096" />
+    <text
+       x="42.577084"
+       y="103.06976"
+       style="font-size:7.68px;line-height:125%;font-family:Arial;text-anchor:start;fill:#000000"
+       id="text4"><tspan
+         sodipodi:role="line"
+         dx="0"
+         dy="0"
+         id="tspan4"
+         x="42.577084"
+         y="103.06976">Do not remove this label</tspan></text>
+    <text
+       x="180.52985"
+       y="103.06976"
+       style="font-size:7.68px;line-height:125%;font-family:Arial;text-anchor:middle;fill:#000000"
+       id="text74"><tspan
+         sodipodi:role="line"
+         dx="0"
+         dy="0"
+         id="tspan74"
+         x="180.52985"
+         y="103.06976">Do not remove this label</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.999999"
+       x="283.06458"
+       y="30.321638"
+       id="text11445"><tspan
+         sodipodi:role="line"
+         id="tspan11443"
+         style="font-size:16px;fill:#ffff00;stroke-width:0.999999"
+         x="283.06458"
+         y="30.321638">## Laser notes</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:16px;fill:#ffff00;stroke-width:0.999999"
+         x="283.06458"
+         y="50.321636"
+         id="tspan11449">* Blue - Cut outside path</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:16px;fill:#ffff00;stroke-width:0.999999"
+         x="283.06458"
+         y="70.32164"
+         id="tspan11453">* Red - Cut outside path</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:16px;fill:#ffff00;stroke-width:0.999999"
+         x="283.06458"
+         y="90.32164"
+         id="tspan77">* Black - Engrave</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:16px;fill:#ffff00;stroke-width:0.999999"
+         x="283.06458"
+         y="110.32164"
+         id="tspan11455">* Yellow - Notes only</tspan></text>
+  </g>
+</svg>
