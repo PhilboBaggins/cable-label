@@ -15,8 +15,8 @@ There are two options for the manufacturing this label:
 
 ### PCB
 
-![./Exports-v1.0/Top.svg](./Exports-v1.0/Top.svg)
-![./Exports-v1.0/Bottom.svg](./Exports-v1.0/Bottom.svg)
+![./PCB/Exports-v1.0/Top.svg](./PCB/Exports-v1.0/Top.svg)
+![./PCB/Exports-v1.0/Bottom.svg](./PCB/Exports-v1.0/Bottom.svg)
 
 TODO: Add photo of completed label attached to a cable
 
