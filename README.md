@@ -18,7 +18,7 @@ There are two options for the manufacturing this label:
 ![./PCB/Exports-v1.0/Top.svg](./PCB/Exports-v1.0/Top.svg)
 ![./PCB/Exports-v1.0/Bottom.svg](./PCB/Exports-v1.0/Bottom.svg)
 
-TODO: Add photo of completed label attached to a cable
+![Photo of completed PCB label attached to a cable](pcb-label-in-use.jpg)
 
 ### Laser cuttable
 
